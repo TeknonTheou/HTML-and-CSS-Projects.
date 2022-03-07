@@ -5,7 +5,7 @@ This repository contains HTML and CSS projects developed by William McMillen
   <p><a href="#space">Space Station Site</a></p>
   <p><a href="#Movie">Movie Theater Site</a></p>
 
-<h3 id="space" style="color:white;"><a href="https://github.com/TeknonTheou/HTML-and-CSS-Projects./tree/main/Movie%20Theater%20Site">Space Station Site</a><h3>
+<h3 id="space" style="color:white;"><a href="https://github.com/TeknonTheou/HTML-and-CSS-Projects./tree/main/Space_Station_Project">Space Station Site</a><h3>
 This page is an example home page for a Space travel company. It is styled using CSS and contains a navbar, image containers, and a form.
 
 <h3 id="movie" style="color:white;"><a href="https://github.com/TeknonTheou/HTML-and-CSS-Projects./tree/main/Movie%20Theater%20Site">Movie Theater Site<h3>
