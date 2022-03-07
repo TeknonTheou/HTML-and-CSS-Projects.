@@ -1,9 +1,7 @@
 # HTML-and-CSS-Projects.
 This repository contains HTML and CSS projects developed by William McMillen
 
-This repository contains HTML and CSS projects developed by William McMillen
-
-Projects
+<strong>Projects</strong>
   Space Station Site
   Movie Theater Site
 
