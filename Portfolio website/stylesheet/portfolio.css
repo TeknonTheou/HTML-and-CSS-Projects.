@@ -62,6 +62,10 @@ q {
     font-style: italic; /* This makes the quote italicized */
 }
 
+q:hover {
+    color:lightskyblue;
+}
+
 /* Image elements */
 img {
     filter: grayscale(75%); /* This rids our pictures of 75% of their color */
@@ -75,7 +79,7 @@ img {
 
 /* Image element hover effects */
 img:hover {
-	filter: grayscale(5%);  /* Brings back most of the image's color when hovered over */
+	filter: none;  /* Brings back the image's color when hovered over */
     transition: transform 1s; /* Transition lasts 1 second */
 	transform: scale(1.1); /* Image is increased slightly when hovered over */
 }
@@ -146,13 +150,13 @@ footer {
 /* Navbar hover effects */
 .Navbar a:hover {
     background-color: #f4f4f4; /* Defines the background color that will display when you hover over the link */
-    color: black; /* This defines the font color that will display when navbar a elements are hovered over */
+    color: darkblue; /* This defines the font color that will display when navbar a elements are hovered over */
     font-weight: bold; /* This makes the text on the navbar bold when hovered over */
 }
 
 /* Navbar home button */
 .Navbar a.active { /* This targets the a element on the navbar with the "active" class */
-    background-color: darkgray;
+    background-color:slateblue;
 }
 /***** END OF NAVBAR STYLING *****/
 
