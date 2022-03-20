@@ -468,6 +468,7 @@ section {
   }
 
   .column {
+    float:left;
     width: 11%;
   }
   
